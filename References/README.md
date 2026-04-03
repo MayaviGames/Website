@@ -3,7 +3,7 @@
 A browser-based gaming platform hosted on GitHub Pages. No installs, no plugins — pure HTML5 & JavaScript.
 
 ## 🚀 Live Site
-> `https://YOUR-USERNAME.github.io/YOUR-REPO-NAME/`
+> `https://mayavigamingstudio.github.io/`
 
 ---
 
